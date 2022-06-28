@@ -1,1 +1,1 @@
-# LGMVIP-WEB-TASK4-Sample-Calculator
+# TASK4-Sample-Calculator
